@@ -174,5 +174,5 @@ print(summary)
 
 ## 👤 Author
 
-Tanishka Trivedi
-GitHub: [https://github.com/your-username](https://github.com/tanishka-trivedi)
+Tanishka Trivedi <br>
+GitHub: [https://github.com/tanishka-trivedi](https://github.com/tanishka-trivedi)
