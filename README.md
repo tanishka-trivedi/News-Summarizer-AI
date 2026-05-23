@@ -174,5 +174,5 @@ print(summary)
 
 ## 👤 Author
 
-Your Name  
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+Tanishka Trivedi
+GitHub: [https://github.com/your-username](https://github.com/tanishka-trivedi)
