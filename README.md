@@ -157,7 +157,7 @@ print(summary)
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Additional Components of Project
 
 - Add Streamlit UI
 - Deploy the project online
