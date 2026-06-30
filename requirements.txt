@@ -1,0 +1,14 @@
+Flask==3.0.3
+nltk==3.8.1
+scikit-learn==1.5.1
+numpy==1.26.4
+newspaper3k==0.2.8
+lxml_html_clean==0.1.1
+gunicorn==22.0.0
+
+transformers==4.44.2
+torch==2.4.0
+# Optional - only needed if you use the "Abstractive (AI-generated)" mode.
+# Uncomment to enable; these are large downloads (~1.5GB+).
+# transformers==4.44.2
+# torch==2.4.0
